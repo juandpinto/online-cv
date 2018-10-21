@@ -1,25 +1,25 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Juan D. Pinto
+    tagline: Language pedagogue, tech enthusiast, open science advocate
+    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: juandpinto1@gmail.com
+    phone: +1 908 930 1221
+    website: juandpinto.com #do not add http://
+    linkedin: pintobean
+    github: juandpinto
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@jdpinto1'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -27,20 +27,23 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
-        
+        level: Native
+
+      - idiom: Hebrew
+        level: Superior
+
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Writing
         link:
 
-      - item: Cooking
+      - item: Coding
+        link:
+
+      - item: Biking
         link:
 
 career-profile:
@@ -55,145 +58,155 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: M.A. in Middle Eastern Languages and Cultures
+      university: The University of Texas at Austin
+      time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+          - **Supervisors:** Esther Raizen, Elaine Horwitz
+          - **Thesis:** *Creating a Frequency Dictionary of Spoken Hebrew: A Reproducible Use of Technology to Overcome Scarcity of Data*
+          - **GPA:** 3.97
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.A. in Ancient Near Eastern Studies
+      university: Brigham Young University
+      time: 2012 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+            - **Minors:** Linguistics, Modern Hebrew
+            - **GPA:** 3.92
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Teacher of English as a Foreign Language
+      time: May 2017 - Present
+      company: VIPKid
+      image: VIPKid.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Teaching English to Chinese children ages 5–12.
+          - All coursework, preparation, testing, and reporting is done online.
+          - Courses taught include general English, phonics, "summer camp” English, and *TOEFL Primary* prep classes.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Graduate Teaching Assistant (Intensive Modern Hebrew)
+      time: Aug 2016 - May 2018
+      company: The University of Texas at Austin - Center for Middle Eastern Studies
+      image: UTexas.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Aided students in the acquisition of Hebrew language and culture.
+          - Duties consisted of inclass feedback, grading, addressing concerns, general course organization, and occasional teaching.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Assistant
+      time: Sep 2014 - Aug 2016
+      company: Brigham Young University - Department of Asian and Near Eastern Languages
+      image: BYU.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Research for various projects and publications, primarily the Dead Sea Scrolls Editions.
+          - Responsibilities included paleographic reading, reconstruction, dating, and analysis of biblical scrolls from cave 2Q, among other things.
 
-          - Bullet point
-          - Bullet point
+    - role: Editor-in-Chief of Studia Antiqua
+      time: Jun 2015 - Jul 2016
+      company: Brigham Young University - Religious Studies Center
+      image: BYU-RSC.jpg
+      details: |
+          - Internship covering all responsibilities pertaining to the student publication Studia Antiqua.
+          - Duties included the handling of submission requests, faculty reviews, editing, publication, fundraising, and the organization of a student symposium.
+          - Also responsible for overseeing the implementation of a new online database for the journal.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    - role: Coordination Assistant
+      time: Sep 2012 - Apr 2016
+      company: Brigham Young University - David M. Kennedy Center for International Studies
+      image: BYU-KC.jpg
+      details: |
+          - Worked with the coordinator of Ancient Near Eastern Studies to organize and manage students, classes, scheduling, budget, and faculty meetings.
+          - Also coordinated all aspects of guest lecturer visits.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Assistant Instructor (Intensive Biblical Hebrew)
+      time: Jun 2015 - Aug 2015
+      company: Brigham Young University - Department of Asian and Near Eastern Languages
+      image: BYU.png
+      details: |
+          - Taught the afternoon sessions of summer intensive biblical Hebrew (HEB 131 and 132), under the direction of a faculty member.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Research Assistant
+      time: Jan 2015 - Jun 2015
+      company: Brigham Young University - Department of Religious Education
+      image: BYU.png
+      details: |
+          - Research for an in-depth faculty project dealing with the Jewish presence in Pompeii.
+          - Included on-site research in Pompeii and the Naples Museum.
+          - Led to multiple peer-reviewed publications by supervising faculty.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - role: Teaching Assistant (Intro to Ancient Near Eastern Studies)
+      time: Sep 2013 - Dec 2013
+      company: Brigham Young University - David M. Kennedy Center for International Studies
+      image: BYU-KC.jpg
+      details: |
+          - Addressed student concerns, graded papers and exams, and assisted with general course organization for Introduction to Ancient Near Easter Studies (ANES 201).
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - role: Editorial Assistant
+      time: Apr 2013 - Sep 2013
+      company: BYU Studies (Journal)
+      image: BYUStudies.jpg
+      details: |
+          - Proofreading, source checking, document organization, and general research for the Chiasmus Collection at the L. Tom Perry Special Collections of the Harold B. Lee Library.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - role: Research Assistant
+      time: Sep 2012 - Apr 2013
+      company: Brigham Young University - Department of Religious Education
+      image: BYU.png
+      details: |
+          - Research responsibilities included finding, organizing, and suggesting useful sources for academic papers and research projects.
+          - Proofread and edited papers for presentation and publication.
+
+presentations:
+    title: Presentations
+    intro: |
+
+    papers:
+      - title: "Language Learning for the 21st Century: Interpersonal Communication Through Digital Communities"
+        authors: October 2018 (Austin, TX - presented remotely)
+        conference: 'Texas Language Center: "Language Matters!" Lecture Series'
+
+      - title: "The Effect of Non-English Morphology and Unvocalized Spelling on the Creation of a Modern Hebrew Vocabulary Frequency List"
+        authors: April 2018 (Herndon, VA)
+        conference: "National Council of Less Commonly Taught Languages (NCOLCTL) 21st Annual Conference"
+
+      - title: "Transitional Semi-Allophonic Spirantization in Tiberian Hebrew"
+        authors: February 2018 (Austin, TX)
+        conference: "Jil Jadid Graduate Student Conference in Middle Eastern Languages and Literatures - The University of Texas at Austin"
+
+      - title: "Lexical Variation in the Understanding of ברא: Homonymy or Polysemy?"
+        authors: January 2015 (Provo, UT)
+        conference: "Students of the Ancient Near East 8th Annual Symposium - Brigham Young University"
+
+      - title: "Spare [Them] a Little Longer: The Role of Prophetic Intercession in the Preservation of the Lord’s People"
+        authors: 2013 (Provo, UT)
+        conference: "BYU Religious Education Student Symposium - Brigham Young University"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Lexical Variation in the Understanding of ברא: Homonymy or Polysemy?"
+        authors:
+        conference: "Studia Antiqua 14, no. 1 (Spring 2015): 20–29."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "The Sacrificed God and Man’s Creation: Nonaggressive Violence in the Mesopotamian Atraḫasīs"
+        authors:
+        conference: "Studia Antiqua 13, no. 2 (Fall 2014): 14–25."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Tech Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Javascript
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: HTML5 & CSS
+        level: 70%
+
+      - name: Photoshop
+        level: 90%
+
+      - name: Microsoft Office
+        level: 100%
