@@ -69,6 +69,14 @@ education:
             - **GPA:** 3.92
 
 experiences:
+    - role: Fulbright English Teaching Assistant
+      time: October 2018 - Present
+      company: Oranim College
+      image: Oranim.png
+      details: |
+          - Tutoring future teachers in their English proficiency and academic writing abilities.
+          - Managing and mentor training for English Club program at public elementary school.
+
     - role: Teacher of English as a Foreign Language
       time: May 2017 - Present
       company: VIPKid
