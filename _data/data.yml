@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Juan D. Pinto
-    tagline: Language pedagogue, tech enthusiast, open science advocate
+    tagline: Adventurous husband, father, language pedagogue, technology enthusiast, and open science advocate.
     avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -50,13 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am currently a Fulbright Fellow in the field of English education at Oranim College in Israel. I specialize in the use of educational technology for the teaching and learning of languages. I am an avid advocate of open science, open source, and open education.
 
 education:
     - degree: M.A. in Middle Eastern Languages and Cultures
