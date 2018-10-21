@@ -13,15 +13,16 @@ sidebar:
 
     # Sidebar links
     email: juandpinto1@gmail.com
-    phone: +1 908 930 1221
+    phone: +972 (0)53-961-4930
     website: juandpinto.com #do not add http://
     linkedin: pintobean
     github: juandpinto
     gitlab:
     bitbucket:
-    twitter: '@jdpinto1'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    mastodon: '@jdpinto@scholar.social'
 
     languages:
       - idiom: English
